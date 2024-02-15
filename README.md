@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <h3> 😎 About Me </h3>
 
   - 🤔 &nbsp; Aspiring AI Entrepreneur and Professional Investor
-  - 🔭 &nbsp; I’m currently working on <a href="https://moayyadshahid.github.io/TeXlator/">TeXlator</a>
+  - 🔭 &nbsp; I’m currently working on <a href="https://moayyadshahid.github.io/TeXlator/" target="_blank">TeXlator</a>
   - ⚡️ &nbsp; Fun fact: I'm left handed
   - 💯 &nbsp; Avid enthusiast of 3D Printing, Robotics, and Martial Arts 
   - 🎓 &nbsp; University of Waterloo '28 | Upper Canada College '23
