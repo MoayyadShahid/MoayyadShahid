@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 😎 About Me </h3>
 
-  - 🤔 &nbsp; Aspiring AI Entrepreneur and Professional Investor
+  - 🤔 &nbsp; Incoming SWE Intern @ Trend Micro
   - 🔭 &nbsp; I’m currently working on <a href="https://pre-launch.vercel.app/" target="_blank">HYRRD</a>
   - ⚡️ &nbsp; Fun fact: I'm left handed
   - 💯 &nbsp; Avid enthusiast of 3D Printing, Robotics, and Martial Arts 
