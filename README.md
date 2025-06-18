@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <h3> 😎 About Me </h3>
 
   - 🤔 &nbsp; Incoming SWE Intern @ Trend Micro
-  - 🔭 &nbsp; I’m currently working on <a href="https://pre-launch.vercel.app/" target="_blank">HYRRD</a>
+  - 🔭 &nbsp; I’m currently working on <a ="modellab.dev" target="_blank">Model Lab</a>
   - ⚡️ &nbsp; Fun fact: I'm left handed!
   - 💯 &nbsp; Avid enthusiast of 3D Printing, Robotics, ML, and Martial Arts 
   - 🎓 &nbsp; University of Waterloo '28 | Upper Canada College '23
