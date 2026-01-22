@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - 🔭 &nbsp; I’m currently working on <a href="https://modellab.dev/" target="_blank">Model Lab</a>
   - ⚡️ &nbsp; Fun fact: I'm left handed!
   - 💯 &nbsp; Avid enthusiast of 3D Printing, Robotics, ML, and Martial Arts 
-  - 🎓 &nbsp; University of Waterloo | Upper Canada College '23
+  - 🎓 &nbsp; University of Waterloo '🤫 | Upper Canada College '23
 </div> 
 
 ## Connect with me:
