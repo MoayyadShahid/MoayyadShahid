@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 😎 About Me </h3>
 
-  - 🤔 &nbsp; Incoming Somewhere IDK ¯\_(ツ)_/¯
+  - 🤔 &nbsp; Incoming Somewhere IDK  ¯\_(ツ)_/¯
   - 🔭 &nbsp; I’m currently working on <a href="https://modellab.dev/" target="_blank">Model Lab</a>
   - ⚡️ &nbsp; Fun fact: I'm left handed!
   - 💯 &nbsp; Avid enthusiast of 3D Printing, Robotics, ML, and Martial Arts 
