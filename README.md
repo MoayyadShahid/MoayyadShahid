@@ -68,36 +68,3 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## GitHub Stats
-
-<!--
-<p align="center">
- <a href="https://github.com/MoayyadShahid/">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api?username=MoayyadShahid&show_icons=true&theme=dark" />
-  </a>
-  -->
-
-  <a href="https://github.com/MoayyadShahid/">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoayyadShahid&layout=compact&theme=dark&langs_count=10" />
-  </a>
-</p>
-
-<!-- 
-<div>
-  <h3> 💻 Languages and Tools </h3>
-  <p>
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"/>
-    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"/> 
-    <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="75"/>
-    <img src="https://camo.githubusercontent.com/67d8d32acb9aa6ef50a036e831334c538cbdb5756d3d42b5bf378212c394c8c7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3231313236322f323233373936332f32336562643565342d396264332d313165332d393136342d3262386165646165393032302e706e67" width="50"/>
-    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"/>
-    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"/>
-    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"/>
-    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"/>
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
-    <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70"/>
-    <img src="https://cdn.svgporn.com/logos/aws.svg" width="50"/>
-    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" width="30"/>
-</div> 
- -->
