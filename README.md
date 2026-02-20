@@ -11,7 +11,7 @@
   - 🤔 &nbsp; Incoming Somewhere
   - 🔭 &nbsp; I’m currently working on 🤫<!--<a href="https://modellab.dev/" target="_blank">Model Lab</a>-->
   - ⚡️ &nbsp; Fun fact: I'm left handed!
-  - 💯 &nbsp; I like 3D Printing, Robotics, ML, Quant, and Martial Arts 
+  - 💯 &nbsp; I like 3D Printing, Drones, Robotics, ML, Quant, and Martial Arts 
   - 🎓 &nbsp; University of Waterloo '🤫 | Upper Canada College '23
 </div> 
 
