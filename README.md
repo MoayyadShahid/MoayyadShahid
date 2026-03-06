@@ -8,7 +8,7 @@
 <div align="left"> 
   <h3> 😎 About Me </h3>
 
-  - 🤔 &nbsp; Incoming idk (it's joever)
+  - 🤔 &nbsp; Incoming idk (it's joever) 🫠
   - 🔭 &nbsp; I’m currently working on 🤫<!--<a href="https://modellab.dev/" target="_blank">Model Lab</a>-->
   - ⚡️ &nbsp; Fun fact: I'm left handed!
   - 💯 &nbsp; I like 3D Printing, Drones, Robotics, ML, Quant, and Martial Arts 
