@@ -14,7 +14,7 @@
   -
   -->
   
-  - 💯 &nbsp; I like 3D Printing, Drones, Robotics, ML, Quant, and Martial Arts 
+  - 💯 &nbsp; I like 3D Printing, Drones, Robotics, ML, LLMs, Quant, and Martial Arts 
   - 🎓 &nbsp; University of Waterloo '🤫 | Upper Canada College '23
 </div> 
 
